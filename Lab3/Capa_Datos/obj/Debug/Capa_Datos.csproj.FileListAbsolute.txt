@@ -1,0 +1,6 @@
+C:\Users\topos\Documents\UIA\2020\II Cuatri\Progra IV\Laboratorio\Lab2\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\topos\Documents\UIA\2020\II Cuatri\Progra IV\Laboratorio\Lab2\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\topos\Documents\UIA\2020\II Cuatri\Progra IV\Laboratorio\Lab2\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\topos\Documents\UIA\2020\II Cuatri\Progra IV\Laboratorio\Lab2\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\topos\Documents\UIA\2020\II Cuatri\Progra IV\Laboratorio\Lab2\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\topos\Documents\UIA\2020\II Cuatri\Progra IV\Laboratorio\Lab2\Capa_Datos\obj\Debug\Capa_Datos.pdb
